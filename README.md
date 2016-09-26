@@ -1,2 +1,3 @@
 # hello-world
-Just for fun
+
+To create a git hub account for keeping a record of programming learning journey. 
